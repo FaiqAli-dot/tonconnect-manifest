@@ -8,6 +8,6 @@
     "items": [
         {
             "name": "ton_addr",
-            "network": "-3"  // This specifies testnet
+            "network": "-3"  
         }
 }
