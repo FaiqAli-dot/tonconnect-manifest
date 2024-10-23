@@ -3,5 +3,11 @@
     "name": "PandaStake",
     "iconUrl": "https://pandastake.s3.eu-north-1.amazonaws.com/images/PandaStakeIcon.png?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmV1LW5vcnRoLTEiSDBGAiEAyNLkQ1ksMkT%2FMguZ9nSX%2FoZdIV6xhe3r68mQYgAsn1cCIQD74P%2FxcW2leoSorApRMjGiit8GEjl9KqXsNHoqLnsiLSrxAgjh%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDU5NzA4ODAzMDQ0NSIMgJXMrdmBpnM8FyGmKsUCp01fUHUJQM2sLgu%2BGUct10uHO5hF4ROPoCT5wlMUrHBRi9fae5582ELpeA28fcZ9YETvDBpKW%2BWMonWvi2%2FWD057AagfDY1y0vAC50vOJpPNTTMlcgYhNAJNX1IjHtyU20zT9jzhjCIlpvaUEiFc%2FIQaRd7IFzC4GWNkXcCR3f%2Bcaj%2FgGv2I%2FDThXEq1hKmCd5D0HBInwtewcWLSnwo7KqMnbRIkyQes8fb8UiqAUJik7NhU2mBkiqbCqiLi4tdfdq0oFKKTkdNDXxOIJRd02jBbWlx3TzRqUpVG5VtwMS5p%2Fs8SFyQ168T9b%2BTYXUfMMVclk1xP6gL9z199iwKByeF0aQmYWabGIBgHK7JDN7AVd5wngzAng9YjVX7jYQZ2KFprgw4uasjUR%2FpyttrULPFUwJaoOkXNN0Z8HH9U4IN0M9ke%2BDCXi823BjqyAm9lAa6kq9aeW82G2xxAXEwZOS35EU8Z7v6ok1UbDUpdecJRWW3ZkusMAg1e17fEfs6F%2BkS%2BvaXRIxYnBfsLwz8Te5uvDWUQsTTrWZhtzft15u%2F0WyOZQD1GLM93wR9jWdL7pzHBk%2B%2BKe5RqPNiDsF4XSJV6AaTK8I3eA8inbqslpylIXOS%2FZSO07Uh7g0TAQa9v2VhxiXkxy5wyZmQ8J4J4bDAOz4BTEQ%2FntvUlYKg6dVvUyfJPu6rSEOWMrRxQGucqMaNFiNCIq%2FiCW3WyiTKtkSlfv4akTu0CsF0oolQccA1PZtEUQ5csWAi1W01agg9gtD%2FQ8FNDksod01ttg7WHQR0A72INDp4hznlRbXHEgXqR0INWVb6fT6x6Fc8rlw0Mik4298cHqlOYFsM0hbKFJA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240925T000311Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAYWBJYJ3WS53HBYPP%2F20240925%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Signature=134008d9e4e335b86e777ec8cd6ab41fd0c2a1c7d28e8399b2fbcfe2474e302e",
     "termsUrl": "https://www.termsfeed.com/live/f4c513c2-ac47-47fc-903f-d870f097bb33",
-    "privacyUrl": "https://www.termsfeed.com/live/b98b8028-28b9-4eb6-b222-62b1740b5414"
+    "privacyUrl": "https://www.termsfeed.com/live/b98b8028-28b9-4eb6-b222-62b1740b5414",
+        "manifestVersion": "0.1",
+    "items": [
+        {
+            "name": "ton_addr",
+            "network": "-3"  // This specifies testnet
+        }
 }
